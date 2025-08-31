@@ -17,7 +17,7 @@ title: Manual de Usuario - Catalogo Cineteca Pública
 
 La barra de navegación es la banda que siempre ves en la parte de arriba de la página. Te ayuda a moverte por toda la cineteca.
 
-<img alt="nav" width="1344" height="95" src="public/nav.png" />
+<img alt="nav" width="1344" height="95" src="/cineteca-manual/nav.png" />
 
 ### Elementos de la Barra
 
@@ -26,7 +26,7 @@ La barra de navegación es la banda que siempre ves en la parte de arriba de la 
 - **Qué dice**: "Cineteca Pública" con el logo
 - **Para qué sirve**: Si haces clic aquí, siempre regresarás a la página de inicio
 
-<img alt="nav-logo" src="public/nav-logo.png" />
+<img alt="nav-logo" src="/cineteca-manual/nav-logo.png" />
 
 #### Enlaces Principales (En computador)
 Cuando usas un computador, verás tres enlaces:
@@ -38,7 +38,7 @@ Cuando usas un computador, verás tres enlaces:
 | **Mapa Fílmico** | El mapa interactivo de Santander |
 
 
-<img alt="nav-links" src="public/nav-links.png" />
+<img alt="nav-links" src="/cineteca-manual/nav-links.png" />
 
 
 ### En Celulares y Tablets
@@ -49,7 +49,7 @@ Cuando usas un computador, verás tres enlaces:
 - **Qué hace**: Al tocarlo se abre un menú grande
 
 
-<img alt="nav-hamburguesa" src="public/nav-hamburguesa.png" />
+<img alt="nav-hamburguesa" src="/cineteca-manual/nav-hamburguesa.png" />
 
 
 #### El Menú Desplegable
@@ -59,7 +59,7 @@ Cuando tocas el botón de menú:
 - Hay un botón "X" para cerrar el menú
 
 
-<img alt="nav-mobile" src="public/nav-mobile.png" />
+<img alt="nav-mobile" src="/cineteca-manual/nav-mobile.png" />
 
 ### Consejos Útiles
 
@@ -76,7 +76,7 @@ Cuando tocas el botón de menú:
 El pie de página es la sección que está hasta abajo de la página. Tiene información importante sobre la cineteca y formas de contacto.
 
 
-<img alt="footer" src="public/footer.png" />
+<img alt="footer" src="/cineteca-manual/footer.png" />
 
 
 ### Información de la Cineteca
@@ -86,7 +86,7 @@ El pie de página es la sección que está hasta abajo de la página. Tiene info
 - **Nombre**: "Cineteca Pública Santander"
 - **Descripción**: Texto que explica la misión de preservar el patrimonio cinematográfico
 
-<img alt="footer-logo" src="public/footer-logo.png" />
+<img alt="footer-logo" src="/cineteca-manual/footer-logo.png" />
 
 
 #### Redes Sociales
@@ -95,7 +95,7 @@ El pie de página es la sección que está hasta abajo de la página. Tiene info
 - **Instagram**: @funcinepsantander  
 - **YouTube**: Canal de la fundación
 
-<img alt="footer-redes" src="public/footer-redes.png" />
+<img alt="footer-redes" src="/cineteca-manual/footer-redes.png" />
 
 
 ### Navegación Rápida
@@ -107,7 +107,7 @@ Una lista con enlaces a las páginas principales:
 
 Cada enlace tiene un pequeño ícono que lo identifica.
 
-<img alt="footer-nav" src="public/footer-nav.png" />
+<img alt="footer-nav" src="/cineteca-manual/footer-nav.png" />
 
 
 ### Información de Contacto
@@ -130,7 +130,7 @@ funcinepsantander@gmail.com
 ```
 
 
-<img alt="footer-contacto" src="public/footer-contacto.png" />
+<img alt="footer-contacto" src="/cineteca-manual/footer-contacto.png" />
 
 
 ### Información Legal
@@ -140,4 +140,4 @@ En la parte más abajo encuentras:
 - **Nota legal**: "Todos los derechos reservados"
 
 
-<img alt="footer-derechos" src="public/footer-derechos.png" />
+<img alt="footer-derechos" src="/cineteca-manual/footer-derechos.png" />
