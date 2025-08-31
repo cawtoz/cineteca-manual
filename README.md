@@ -14,7 +14,7 @@
 
 La barra de navegación es la banda que siempre ves en la parte de arriba de la página. Te ayuda a moverte por toda la cineteca.
 
-<img alt="nav" width="1344" height="95" src="https://github.com/user-attachments/assets/e0708eae-a645-412f-8f92-a0919eb1f6ea" />
+<img alt="nav" width="1344" height="95" src="../../" />
 
 ### Elementos de la Barra
 
